@@ -1,58 +1,58 @@
-# Hi there! 👋 I'm Md Fazle Azim  
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/BHhqQqcg/photo-2024-12-03-19-23-15.jpg"  />
+</div>
 
-https://i.ibb.co.com/BHhqQqcg/photo-2024-12-03-19-23-15.jpg 
+###
 
-## 🚀 About Me  
-I am a passionate **[Your Role]** (e.g., Frontend Developer, Full Stack Developer) with a love for building innovative and user-friendly web applications.  
-- 🔭 I’m currently working on **[Your Current Project]**  
-- 🌱 I’m currently learning **[New Technology/Framework]**  
-- 💬 Ask me about **[Your Expertise]**  
-- ⚡ Fun fact: **[Something Interesting About You]**  
+<h3 align="center">This is Md Fazle Azim .</h3>
 
----
+###
 
-## 🛠️ Tech Stack  
+<h4 align="center">About  me</h4>
 
-### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+###
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+<p align="left">Hi there! I'm a passionate  Frontend Developer with a strong focus on building user-friendly, responsive, and dynamic web applications. I love working with modern web technologies like React.js, Tailwind CSS to create seamless user experiences.</p>
 
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+###
 
-### Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+<p align="center">MERN Stack Web Developer</p>
 
----
+###
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2026<br>🎲 Fun fact: I like to play 'Vice City' game 😎😎</p>
 
----
+###
 
-## 📌 Pinned Repositories  
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=dark)](https://github.com/your-github-username/your-repo-name)  
+<h3 align="center">I code With</h3>
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=dark)](https://github.com/your-github-username/your-repo-name)  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-
----
-
-### 🎯 Let's Build Something Amazing Together! 🚀  
+###
 
