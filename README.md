@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/LX9DFh5w/cea4ca03-9953-4766-a94c-b34230bc4c53.webp"  />
+  <img src="https://i.ibb.co/LX9DFh5w/cea4ca03-9953-4766-a94c-b34230bc4c53.webp" width="100%" height="auto" />
 </div>
+
 
 ###
 
