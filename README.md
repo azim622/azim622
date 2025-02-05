@@ -72,7 +72,7 @@ I aim to continuously improve my skills and contribute to **open-source** projec
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azim622&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azim622&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=azim622)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim622&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azim622&theme=react-dark&hide_border=false" height="300" alt="GitHub Activity Graph"/>
 </div>
